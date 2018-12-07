@@ -52,6 +52,10 @@ section:nth-of-type(even) {
 h2 {
   text-align: center;
 }
+h3 {
+  font-size: 53px;
+  color: black;
+}
 .container {
   display: flex;
   flex-wrap: wrap;
@@ -185,9 +189,9 @@ p {
   height: 9px;
   width: 576px;
 }
-footer {
+/* footer {
   margin: 0 auto;
   background: url(images/separator.png);
   height: 9px;
   width: 576px;
-}
+} */
