@@ -38,7 +38,7 @@ a {
   justify-content: center;
   align-items: center;
   text-align: center;
-  height: 682px;
+  height: 780px;
 }
 section {
   width: 100%;
@@ -84,6 +84,7 @@ h3 {
   display: block;
   margin: 0 auto;
 }
+
 @media (max-width: 768px) {
   .sm-col-12 {
     width: 100%;
@@ -105,6 +106,7 @@ h3 {
 p {
   text-align: center;
 }
+
 .downarrow {
   background: transparent url(images/arrow.png) center center no-repeat;
   background-size: 70px 50px;
@@ -117,9 +119,11 @@ p {
 .line {
   border-bottom: 1px solid #e0e0e0;
 }
+
 .line2 {
   padding-top: 20px;
 }
+
 .line3 {
   border-top: 1px solid #e0e0e0;
 }
