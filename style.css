@@ -20,6 +20,11 @@ nav {
   align-items: center;
   z-index: 1;
 }
+.github,
+.linkedin {
+  width: 20px;
+  height: 20px;
+}
 nav a {
   color: #f8f8ff;
   margin-left: 20px;
