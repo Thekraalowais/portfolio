@@ -41,7 +41,7 @@ nav div a:before {
   height: 12px;
   /* background: #f00; */
   border: 3px solid white;
-  border-width: 0 0 3px 3px;
+  border-width: 0 0 1px 1px;
   transition: 0.5s;
   opacity: 1;
 }
@@ -58,7 +58,7 @@ nav div a:after {
   height: 12px;
   /* background: #f00; */
   border: 3px solid white;
-  border-width: 3px 3px 0 0;
+  border-width: 1px 1px 0 0;
   transition: 0.5s;
   opacity: 1;
 }
